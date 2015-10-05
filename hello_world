@@ -1,0 +1,13 @@
+/*
+Title: Hello World program
+Author: Monica Wong
+Date: 2015/10/04
+Description: Mandatory first program in all coding examples :)
+*/
+
+#include<stdio.h>
+
+main()
+{
+  printf("Hello World");
+}
